@@ -124,6 +124,3 @@ vue.js 封装 sChart.js 的图表组件。访问地址：[vue-schart](https://gi
 </style>
 ```
 
-## License
-
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
